@@ -1,0 +1,1 @@
+Create TABLE profile(id serial primary key, amount integer ,hobby varchar(255),gender varchar (255))
